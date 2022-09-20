@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Simple Color App
+
+- using SketchPicker from react-color
+- select color it will be background color
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
